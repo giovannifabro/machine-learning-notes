@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "accc34a34ca28574",
+    "type": "split",
+    "children": [
+      {
+        "id": "700d30f8908d45d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96327feedf237c74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Formulario/Formulario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formulario"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54e7f43bf9d56f2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a2ee5abaf3d3835",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f83e69587020bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8eddb01026bb4310",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4cfa0e4790268620",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "23330a6c05d53bdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e455144a735be62b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b949ebee1cd8d69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algoritmi/Grafi/Grafi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Grafi"
+            }
+          },
+          {
+            "id": "ec3f925695bbd34f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "b36ad9f618134982",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "db7806d4338cd695",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine Learning/Formulario/Formulario.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Formulario"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "96327feedf237c74",
+  "lastOpenFiles": [
+    "Algoritmi/Esame/ALGORITMIAndrea.md",
+    "Algoritmi/Grafi/Grafi.md",
+    "Machine Learning/Dimensionality Reduction.md",
+    "Machine Learning/Untitled 1.md",
+    "Machine Learning/Untitled.md",
+    "Algoritmi/Esame/ALGORITMI.md",
+    "Machine Learning/Formulario/MachineLearning/Formulario.md",
+    "Machine Learning/Formulario/MachineLearning/Immagine 2025-06-04 103910.jpg",
+    "Sistemi Operativi/Memoria virtuale.md",
+    "Machine Learning/PDF/13 - Esercizi in preparazione Compito/Esercizi_In_Preparazione_Compito_Parte1.pdf",
+    "Machine Learning/PDF/13 - Esercizi in preparazione Compito",
+    "Machine Learning/PDF/10 - Clustering/Materiale/10c -04_DBSCAN.pdf",
+    "Machine Learning/PDF/10 - Clustering/Materiale/10b - 03_17_Hierarchical_Clustering.pdf",
+    "Machine Learning/PDF/10 - Clustering/Materiale/10a - 02_cs229-notes7a_K-means.pdf",
+    "Machine Learning/PDF/10 - Clustering/Materiale",
+    "Machine Learning/PDF/10 - Clustering/Esercizi Clustering con Soluzioni.pdf",
+    "Machine Learning/PDF/10 - Clustering/10 - Clustering.pdf",
+    "Machine Learning/PDF/10 - Clustering",
+    "Machine Learning/PDF/09 - SVM/Materiale/08 - SVM_Gavrilov.pdf",
+    "Sistemi Operativi/AppuntiGeneratiNotebookLM/Teoria/Memoria Centrale.md",
+    "Sistemi Operativi/AppuntiGeneratiNotebookLM/Teoria/Memoria Centrale Mappa.md",
+    "Sistemi Operativi/AppuntiGeneratiNotebookLM/Teoria/CPU Scheduling.md",
+    "Algoritmi/Strutture dati per insiemi disgiunti/Strutture dati per insiemi disgiunti.md",
+    "Algoritmi/BTree/BTree.md",
+    "Machine Learning/Clustering.md",
+    "Machine Learning/SVM.md",
+    "Algoritmi/RedBlackTree/Red-Black Tree.md",
+    "Sistemi Operativi/AppuntiGeneratiNotebookLM/Laboratorio/Funzioni C.md",
+    "Sistemi Operativi/AppuntiGeneratiNotebookLM/Laboratorio/C01-07.md",
+    "TWC/Funzioni PHP, Costrutti e Variabili Predefinite.md",
+    "Algoritmi/Grafi/Untitled Diagram 70.svg",
+    "Algoritmi/Grafi/Untitled Diagram 69.svg",
+    "Algoritmi/Grafi/Untitled Diagram 68.svg",
+    "Algoritmi/Grafi/Untitled Diagram 66.svg",
+    "Algoritmi/Grafi/Untitled Diagram 67.svg",
+    "Algoritmi/Esame/Esame/ALGORITMI.md",
+    "Algoritmi/Esame/Esame/Untitled Diagram.svg",
+    "Algoritmi/Esame/Esame/Untitled Diagram 3.svg",
+    "Algoritmi/Esame/Esame/Untitled Diagram 2.svg",
+    "Algoritmi/Esame/Esame/Untitled Diagram 1.svg.md",
+    "Algoritmi/Esame/Esame/Untitled Diagram 1.svg",
+    "Sistemi Operativi/AppuntiGeneratiNotebookLM/Teoria/DeadlockMappa.md",
+    "Sistemi Operativi/AppuntiGeneratiNotebookLM/Teoria/Deadlock.md",
+    "Sistemi Operativi/AppuntiGeneratiNotebookLM/Teoria/Sincronizzazione.md",
+    "Sistemi Operativi/AppuntiGeneratiNotebookLM/Quiz/Quiz Processi.md",
+    "Sistemi Operativi/AppuntiGeneratiNotebookLM/Teoria/Processi e Comunicazione tra Processi.md"
+  ]
+}
