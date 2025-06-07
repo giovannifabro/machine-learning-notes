@@ -18,7 +18,7 @@ Personal study notes on Machine Learning concepts, algorithms, and implementatio
 ## Notes included:
 <ul>
   <li>Formula sheet: a collection of all the formulas for every argument in the topics list</li>
-  <li>Theory notes are working in progress</li>
+  <li>Theory notes...work in progress</li>
 </ul>
 
 ## Format
